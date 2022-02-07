@@ -1,0 +1,157 @@
+
+
+
+body{
+     background-color: #D06224 !important;
+   
+}
+
+.container{
+    width: 100%;
+    display: flex;
+     flex-direction: column; 
+     margin: 0px;
+}
+
+
+.fotomenu {
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+.dp-menu {
+    background-color: #8A8635;
+}
+.dp-menu ul {
+    background-color: #8A8635;
+    
+}
+.dp-menu a{
+    color:white;
+}
+    .dp-menu ul li a:hover {
+        background-color: #D06224;
+        color: white;
+    }
+
+    card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.teste .cad {
+    float: right;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 30px;
+}
+
+    .card img {
+        display: block;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .teste .btn-cad {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D06224;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.teste .btn-cad:hover {
+    background-color: #8A8635;
+    color: white ;
+}
+
+
+.color-botao {
+    background-color: #D06224;
+}
+
+.center {
+    text-align: center;
+}
+
+.form-contato {
+    padding: 50px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: #8A8635;
+}
+
+.not-color {
+    color: white;
+    margin-top: 100px;
+    margin-right: 25px;
+    border-radius: 30px;
+    align-items: center;
+    background-color: #8A8635;
+}
+
+.not img{
+    width: 800px;
+    height:400px;
+    }
+
+div .card-color {
+    border:0px;
+    background-color: #D06224;
+}
+
+
+footer{
+    margin-top: 10px;
+    background-color: #8A8635;
+    color: white;
+    }
+.icone a:hover{
+    background-color: #D06224;
+    color: white;
+}
+
+.btn-solic button:hover{
+    background-color: #D06224;
+    color: white;
+}
+
+.novo-btn:hover{
+    background-color: #8A8635;
+    color: white;
+}
+
+.form{
+    border-radius: 20px;
+    background-color: white;
+}
+
+h4{
+ color: white;
+ text-align: center;   
+}
+
+h3{
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+     flex-direction: column; 
+     margin: 0px;   
+   }
+
